@@ -1,0 +1,40 @@
+	
+	/*.t1{
+		background:linear-gradient(DarkSlateBlue,DeepSkyBlue)
+		}*/
+
+		
+	.t2{
+		height:800px;
+		background:linear-gradient(#6835B5,#2EBBC2);
+		background-repeat:no-repeat;
+		color: white;
+		}
+	
+	.t3{
+		color:black;
+		
+		}
+	.h1{
+		font-family:lucida console;
+		font-size: 50px;
+		}
+		
+	.h2{
+		font-size: 20px;
+		}
+	.h4{
+		height:40px;
+		width:390px;
+		background-color:#3090c7;
+		border:0px;
+		color:white;
+		box-shadow:0 4px #4682b4;
+	}
+	
+	.h5{
+		height:40px;
+		width:380px;
+		background-color:;
+		
+	}
